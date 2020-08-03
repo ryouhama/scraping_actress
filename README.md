@@ -1,2 +1,11 @@
 # scraping_actress
-Scraing Actress data
+scraping actress data
+
+## Installation
+install pacages 
+`pip install requests`
+`pip install beautifulsoup`
+
+## how to use
+execute command  `python scraping_actress.py`
+
